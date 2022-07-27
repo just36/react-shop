@@ -1,3 +1,4 @@
+import React from 'react';
 import { ItemUnit } from './ItemUnit';
 
 function ItemsList(props) {
